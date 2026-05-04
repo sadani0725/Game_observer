@@ -1,0 +1,2 @@
+hp_bar
+stamina_bar

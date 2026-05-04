@@ -1,0 +1,4 @@
+Game_observer/training/data_prep/videos/
+*.mp4
+.venv/
+__pycache__/

@@ -1,0 +1,8 @@
+path: Game_observer/training/dataset
+train: images/train
+val: images/val
+
+names:
+  0: hp_bar
+  1: stamina_bar
+  2: you_died
